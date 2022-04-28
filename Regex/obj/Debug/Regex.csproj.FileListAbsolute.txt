@@ -1,0 +1,6 @@
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 9\Regex\Regex\bin\Debug\Regex.dll
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 9\Regex\Regex\bin\Debug\Regex.pdb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 9\Regex\Regex\obj\Debug\Regex.csproj.AssemblyReference.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 9\Regex\Regex\obj\Debug\Regex.csproj.CoreCompileInputs.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 9\Regex\Regex\obj\Debug\Regex.dll
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 9\Regex\Regex\obj\Debug\Regex.pdb
